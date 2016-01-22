@@ -1,0 +1,832 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Read v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-25 17:44-0600\n"
+"PO-Revision-Date: 2015-10-20 09:46-0600\n"
+"Last-Translator: silver530 <mehmetsali@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ read
+#: 404.php:12
+msgid "404"
+msgstr "404"
+
+#: 404.php:14
+msgid "The page you are looking for was not found!"
+msgstr "您所查看的页面不存在！"
+
+# @ read
+#: about-author.php:2
+msgid "ABOUT THE AUTHOR"
+msgstr "关于作者"
+
+# @ read
+#: aut-masonry.php:9 aut-nosidebar.php:9 aut-sidebar.php:9
+msgid "Author Archives"
+msgstr "作者存档"
+
+# @ read
+#: aut-masonry.php:9 aut-nosidebar.php:9 aut-sidebar.php:9 cat-masonry.php:9
+#: cat-nosidebar.php:9 cat-sidebar.php:9 dt-masonry.php:14 dt-nosidebar.php:14
+#: dt-sidebar.php:14 header.php:135 search.php:12 tg-masonry.php:9
+#: tg-nosidebar.php:9 tg-sidebar.php:9
+msgid "&#8594;"
+msgstr "&#8594;"
+
+# @ read
+#: aut-masonry.php:34 aut-nosidebar.php:34 aut-sidebar.php:34
+#: cat-masonry.php:32 cat-nosidebar.php:32 cat-sidebar.php:32 dt-masonry.php:60
+#: dt-nosidebar.php:60 dt-sidebar.php:60 no-posts.php:18 search.php:60
+#: tg-masonry.php:32 tg-nosidebar.php:32 tg-sidebar.php:32
+msgid "Nothing Found"
+msgstr "没有找到"
+
+# @ read
+#: aut-masonry.php:36 aut-nosidebar.php:36 aut-sidebar.php:36
+#: cat-masonry.php:34 cat-nosidebar.php:34 cat-sidebar.php:34 dt-masonry.php:62
+#: dt-nosidebar.php:62 dt-sidebar.php:62 no-posts.php:23 tg-masonry.php:34
+#: tg-nosidebar.php:34 tg-sidebar.php:34
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr "对不起，没有找到任何结果。或许使用搜索可以找到相关的文章。"
+
+# @ read
+#: cat-masonry.php:9 cat-nosidebar.php:9 cat-sidebar.php:9
+msgid "Post Category"
+msgstr "文章分类"
+
+# @ read
+#: comments.php:15
+#, php-format
+msgid "1 Comment %2$s"
+msgid_plural "%1$s Comments %2$s"
+msgstr[0] "1条关于 %2$s 的评论"
+msgstr[1] "%1$s条关于 %2$s 的评论"
+
+# @ read
+#: comments.php:35
+msgid "Comment navigation"
+msgstr "评论导航"
+
+# @ read
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr "&larr; 较旧评论"
+
+# @ read
+#: comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+# @ read
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+# @ read
+#: dt-masonry.php:11 dt-nosidebar.php:11 dt-sidebar.php:11
+msgid "Date Archives"
+msgstr "日期存档"
+
+#: dt-masonry.php:24 dt-nosidebar.php:24 dt-sidebar.php:24
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: dt-masonry.php:28 dt-nosidebar.php:28 dt-sidebar.php:28
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: dt-masonry.php:32 dt-nosidebar.php:32 dt-sidebar.php:32
+msgid "Archives"
+msgstr "存档"
+
+# @ read
+#: format-aside.php:30 format-audio.php:30 format-chat.php:30
+#: format-gallery.php:30 format-image.php:30 format-link.php:30
+#: format-quote.php:30 format-standard.php:49 format-status.php:30
+#: format-video.php:30 search.php:43
+msgid "0 Comment"
+msgstr "暂无评论"
+
+# @ read
+#: format-aside.php:30 format-audio.php:30 format-chat.php:30
+#: format-gallery.php:30 format-image.php:30 format-link.php:30
+#: format-quote.php:30 format-standard.php:49 format-status.php:30
+#: format-video.php:30 search.php:43
+msgid "1 Comment"
+msgstr "1条评论"
+
+# @ read
+#: format-aside.php:30 format-audio.php:30 format-chat.php:30
+#: format-gallery.php:30 format-image.php:30 format-link.php:30
+#: format-quote.php:30 format-standard.php:49 format-status.php:30
+#: format-video.php:30 search.php:43
+msgid "% Comments"
+msgstr "% 条评论"
+
+# @ read
+#: format-aside.php:36 format-audio.php:36 format-chat.php:36
+#: format-gallery.php:36 format-image.php:36 format-link.php:36
+#: format-quote.php:36 format-standard.php:55 format-status.php:36
+#: format-video.php:36 functions.php:866 functions.php:895 functions.php:1041
+#: functions.php:1063 functions.php:1268 functions.php:1379
+#: post-nosidebar.php:65 post-sidebar.php:65
+msgid "Edit"
+msgstr "编辑"
+
+# @ read
+#: format-aside.php:66 format-audio.php:66 format-chat.php:66
+#: format-gallery.php:66 format-image.php:66 format-link.php:66
+#: format-quote.php:66 format-standard.php:85 format-status.php:66
+#: format-video.php:66 functions.php:332
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 <span class=\"meta-nav\">&rarr;</span>"
+
+# @ read
+#: format-aside.php:72 format-audio.php:72 format-chat.php:72
+#: format-gallery.php:72 format-image.php:72 format-link.php:72
+#: format-quote.php:72 format-standard.php:91 format-status.php:72
+#: format-video.php:72 image.php:100 page-archive-2.php:30 page-archive.php:85
+#: page-contact.php:126 page-full-width.php:27 page-gallery.php:35
+#: page-gallery.php:137 page-home.php:21 page-portfolio.php:42
+#: page-portfolio.php:158 page-sidebar.php:30 page.php:24 post-nosidebar.php:91
+#: post-sidebar.php:91 single-gallery.php:134 single-portfolio.php:52
+msgid "Pages:"
+msgstr "页面："
+
+# @ read
+#: format-standard.php:25 post-nosidebar.php:33 post-sidebar.php:33
+#: search.php:39
+msgid "posted in"
+msgstr "分类："
+
+# @ read
+#: format-standard.php:35 post-nosidebar.php:43 post-sidebar.php:43
+#: search.php:41
+msgid "on"
+msgstr "日期："
+
+# @ read
+#: format-standard.php:39 post-nosidebar.php:47 post-sidebar.php:47
+#: search.php:45
+msgid "by"
+msgstr "作者："
+
+# @ read
+#: format-standard.php:41 post-nosidebar.php:49 post-sidebar.php:49
+#: search.php:47
+msgid "View all posts by "
+msgstr "查看其所有文章："
+
+# @ read
+#: functions.php:207
+#, php-format
+msgid "Page %s"
+msgstr "第 %s 页"
+
+# @ read
+#: functions.php:268
+msgid "Navigation Menu"
+msgstr "导航菜单"
+
+# @ read
+#: functions.php:287
+msgid "Home"
+msgstr "首页"
+
+# @ read
+#: functions.php:341 functions.php:435
+msgid "Blog Sidebar"
+msgstr "博客侧边栏"
+
+# @ read
+#: functions.php:349 functions.php:434
+msgid "Page Sidebar"
+msgstr "页面侧边栏"
+
+#: functions.php:357
+msgid "Header Social Icons"
+msgstr "顶部社交按钮"
+
+# @ read
+#: functions.php:366
+msgid "Footer 1"
+msgstr "底部 1"
+
+# @ read
+#: functions.php:374
+msgid "Footer 2"
+msgstr "底部 2"
+
+# @ read
+#: functions.php:382
+msgid "Footer 3"
+msgstr "底部 3"
+
+# @ read
+#: functions.php:390
+msgid "Footer 4"
+msgstr "底部 4"
+
+# @ read
+#: functions.php:471
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: functions.php:545
+msgid "Title Visibility"
+msgstr "标题可见性"
+
+#: functions.php:599
+msgid "Description"
+msgstr "描述"
+
+#: functions.php:607
+msgid "Keywords"
+msgstr "关键字"
+
+#: functions.php:615
+msgid "Separate keywords with commas"
+msgstr "用逗号分隔关键字"
+
+# @ read
+#: functions.php:625 functions.php:626 functions.php:633
+msgid "SEO"
+msgstr "SEO"
+
+# @ read
+#: functions.php:819
+msgid "Pingback:"
+msgstr "广播"
+
+# @ read
+#: functions.php:819
+msgid "(Edit)"
+msgstr "（编辑）"
+
+# @ read
+#: functions.php:847
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+# @ read
+#: functions.php:855
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+# @ read
+#: functions.php:873
+msgid "Reply"
+msgstr "回复"
+
+# @ read
+#: functions.php:891
+msgid "Portfolio"
+msgstr "作品集"
+
+# @ read
+#: functions.php:892
+msgid "Portfolio Item"
+msgstr "作品项目"
+
+# @ read
+#: functions.php:893 functions.php:894 functions.php:1043 functions.php:1065
+#: functions.php:1266 functions.php:1267 functions.php:1381 functions.php:1477
+msgid "Add New"
+msgstr "添加"
+
+# @ read
+#: functions.php:896 functions.php:1269
+msgid "New"
+msgstr "新增"
+
+# @ read
+#: functions.php:897 functions.php:1038 functions.php:1060 functions.php:1270
+#: functions.php:1376
+msgid "All"
+msgstr "所有"
+
+# @ read
+#: functions.php:898 functions.php:1271
+msgid "View"
+msgstr "查看"
+
+# @ read
+#: functions.php:899 functions.php:1037 functions.php:1059 functions.php:1272
+#: functions.php:1375 header.php:135 searchform.php:7
+msgid "Search"
+msgstr "搜索"
+
+# @ read
+#: functions.php:900 functions.php:1273
+msgid "No Items found"
+msgstr "未找到项目"
+
+# @ read
+#: functions.php:901 functions.php:1274
+msgid "No Items found in Trash"
+msgstr "垃圾箱中未找到项目"
+
+# @ read
+#: functions.php:930 functions.php:1303
+#, php-format
+msgid "<strong>Updated.</strong> <a target=\"_blank\" href=\"%s\">View</a>"
+msgstr "<strong>已更新。</strong> <a target=\"_blank\" href=\"%s\">查看</a>"
+
+# @ read
+#: functions.php:931 functions.php:1304
+msgid "Custom field updated."
+msgstr "自定义域已更新。"
+
+# @ read
+#: functions.php:932 functions.php:1305
+msgid "Custom field deleted."
+msgstr "自定义域已删除。"
+
+# @ read
+#: functions.php:933 functions.php:1306
+msgid "Updated."
+msgstr "已更新。"
+
+# @ read
+#: functions.php:935 functions.php:1308
+#, php-format
+msgid "Restored to revision from %s"
+msgstr "修订版恢复于 %s。"
+
+# @ read
+#: functions.php:936 functions.php:1309
+#, php-format
+msgid "<strong>Published.</strong> <a target=\"_blank\" href=\"%s\">View</a>"
+msgstr "<strong>已发布。</strong> <a target=\"_blank\" href=\"%s\">查看</a>"
+
+# @ read
+#: functions.php:937 functions.php:1310
+msgid "Saved."
+msgstr "已保存。"
+
+# @ read
+#: functions.php:938 functions.php:1311
+#, php-format
+msgid "Submitted. <a target=\"_blank\" href=\"%s\">Preview</a>"
+msgstr "已提交。 <a target=\"_blank\" href=\"%s\">预览</a>"
+
+# @ read
+#: functions.php:939 functions.php:1312
+#, php-format
+msgid ""
+"Scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview</a>"
+msgstr ""
+"计划于： <strong>%1$s</strong>。 <a target=\"_blank\" href=\"%2$s\">预览</a>"
+
+# @ read
+#: functions.php:941 functions.php:1314
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+# @ read
+#: functions.php:942 functions.php:1315
+#, php-format
+msgid ""
+"<strong>Item draft updated.</strong> <a target=\"_blank\" href=\"%s"
+"\">Preview</a>"
+msgstr ""
+"<strong>项目草稿已更新。</strong> <a target=\"_blank\" href=\"%s\">预览</a>"
+
+# @ read
+#: functions.php:954 functions.php:1327
+msgid "Title"
+msgstr "标题"
+
+# @ read
+#: functions.php:955 functions.php:1328
+msgid "Featured Image"
+msgstr "特色图像"
+
+# @ read
+#: functions.php:956 functions.php:1035 functions.php:1045
+msgid "Departments"
+msgstr "部门"
+
+# @ read
+#: functions.php:957 functions.php:1198 functions.php:1329 functions.php:1423
+msgid "Short Description"
+msgstr "简短描述"
+
+# @ read
+#: functions.php:958 functions.php:1125
+msgid "Type"
+msgstr "类型"
+
+# @ read
+#: functions.php:960 functions.php:1332
+msgid "Date"
+msgstr "日期"
+
+# @ read
+#: functions.php:1036
+msgid "Department"
+msgstr "部门"
+
+# @ read
+#: functions.php:1039
+msgid "Parent Department"
+msgstr "父部门"
+
+# @ read
+#: functions.php:1040
+msgid "Parent Department:"
+msgstr "父部门："
+
+# @ read
+#: functions.php:1042 functions.php:1064 functions.php:1380
+msgid "Update"
+msgstr "更新"
+
+# @ read
+#: functions.php:1044
+msgid "New Department Name"
+msgstr "新部门名称"
+
+# @ read
+#: functions.php:1057 functions.php:1067
+msgid "Portfolio Tags"
+msgstr "作品集标签"
+
+# @ read
+#: functions.php:1058
+msgid "Portfolio Tag"
+msgstr "作品集标签"
+
+# @ read
+#: functions.php:1061
+msgid "Parent Portfolio Tag"
+msgstr "父作品集标签"
+
+# @ read
+#: functions.php:1062
+msgid "Parent Portfolio Tag:"
+msgstr "父作品集标签："
+
+# @ read
+#: functions.php:1066
+msgid "New Portfolio Tag Name"
+msgstr "新作品集标签名称"
+
+# @ read
+#: functions.php:1098
+msgid "Show All"
+msgstr "显示所有"
+
+# @ read
+#: functions.php:1132
+msgid "Standard"
+msgstr "标准"
+
+#: functions.php:1136
+msgid "Lightbox Featured Image"
+msgstr "Lightbox 特色图像"
+
+#: functions.php:1140
+msgid "Lightbox Gallery"
+msgstr "Lightbox 图库"
+
+# @ read
+#: functions.php:1144
+msgid "Lightbox Video"
+msgstr "Lightbox 视频"
+
+#: functions.php:1148
+msgid "Lightbox Audio"
+msgstr "Lightbox 音频"
+
+# @ read
+#: functions.php:1152
+msgid "Direct URL"
+msgstr "直接输入网址"
+
+# @ read
+#: functions.php:1161
+msgid "Direct URL:"
+msgstr "直接输入网址："
+
+# @ read
+#: functions.php:1163
+msgid "Open link in new tab"
+msgstr "在新标签中打开链接"
+
+# @ read
+#: functions.php:1185 functions.php:1408
+msgid "Thumbnail Size"
+msgstr "缩略图大小"
+
+# @ read
+#: functions.php:1191 functions.php:1414
+msgid "1x"
+msgstr "1x"
+
+# @ read
+#: functions.php:1193 functions.php:1418
+msgid "2x"
+msgstr "2x"
+
+# @ read
+#: functions.php:1213 functions.php:1558
+msgid "Details"
+msgstr "详情"
+
+# @ read
+#: functions.php:1264 page-archive.php:59
+msgid "Gallery"
+msgstr "图库"
+
+# @ read
+#: functions.php:1265
+msgid "Gallery Item"
+msgstr "图库项目"
+
+# @ read
+#: functions.php:1330
+msgid "Author"
+msgstr "作者"
+
+# @ read
+#: functions.php:1373 functions.php:1383
+msgid "Gallery Tags"
+msgstr "图库标签"
+
+# @ read
+#: functions.php:1374
+msgid "Gallery Tag"
+msgstr "图库标签"
+
+# @ read
+#: functions.php:1377
+msgid "Parent Gallery Tag"
+msgstr "父图库标签"
+
+# @ read
+#: functions.php:1378
+msgid "Parent Gallery Tag:"
+msgstr "父图库标签："
+
+# @ read
+#: functions.php:1382
+msgid "New Gallery Tag Name"
+msgstr "新图库标签名称"
+
+# @ read
+#: functions.php:1465
+msgid "Change"
+msgstr "修改"
+
+# @ read
+#: functions.php:1466
+msgid "Remove"
+msgstr "删除"
+
+# @ read
+#: functions.php:1560
+msgid "Images"
+msgstr "图像"
+
+# @ read
+#: functions.php:1798
+#, php-format
+msgid ""
+"You shall not place the %1$s template tag inside the loop on list/archives/"
+"search/etc templates."
+msgstr "您不能将 %1$s 模板标签置于 list/archives/search/etc 模板循环内。"
+
+# @ read
+#: functions.php:2067
+msgid "First"
+msgstr "最前"
+
+# @ read
+#: functions.php:2276
+msgid "Last"
+msgstr "最后"
+
+# @ read
+#: functions.php:3385
+msgid "Colors"
+msgstr "颜色"
+
+# @ read
+#: functions.php:3391
+msgid "Link Color"
+msgstr "链接颜色"
+
+# @ read
+#: functions.php:3399
+msgid "Link Hover Color"
+msgstr "链接停留颜色"
+
+# @ read
+#: functions.php:3407
+msgid "Menu Active Color"
+msgstr "菜单激活颜色"
+
+# @ read
+#: functions.php:3414
+msgid "Fonts"
+msgstr "字体"
+
+# @ read
+#: header.php:135
+msgid "Enter keyword"
+msgstr "输入关键字"
+
+# @ read
+#: header.php:135
+msgid "Search it"
+msgstr "搜索"
+
+#: image.php:26
+msgid "PREVIOUS IMAGE"
+msgstr "上一张"
+
+#: image.php:31
+msgid "NEXT IMAGE"
+msgstr "下一张"
+
+#: no-posts.php:6
+msgid "No posts to display"
+msgstr "没有可显示的文章"
+
+#: no-posts.php:11
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "准备发布第一篇文章？<a href=\"%s\">从这里开始</a>。"
+
+#: page-archive-2.php:34
+msgid "Last 30 posts"
+msgstr "最近30篇文章"
+
+#: page-archive-2.php:67
+msgid "Archives by month"
+msgstr "按月份存档"
+
+#: page-archive-2.php:82
+msgid "Archives by category"
+msgstr "按分类存档"
+
+#: page-archive-2.php:98
+msgid "Archives by format"
+msgstr "按类型存档"
+
+# @ read
+#: page-archive.php:29
+msgid "Post Archives"
+msgstr "文章存档"
+
+# @ read
+#: page-archive.php:39
+msgid "Pages"
+msgstr "页面"
+
+# @ read
+#: page-archive.php:49
+msgid "Categories"
+msgstr "分类"
+
+# @ read
+#: page-contact.php:33
+msgid "Where am I in this world?"
+msgstr "我在世界的哪个角落？"
+
+# @ read
+#: page-contact.php:53
+msgid "Please feel free to contact me about anything."
+msgstr "如有问题，请随时与我联系。"
+
+# @ read
+#: page-contact.php:60
+msgid "Your Name"
+msgstr "您的昵称"
+
+# @ read
+#: page-contact.php:66
+msgid "Your Email"
+msgstr "您的邮件地址"
+
+# @ read
+#: page-contact.php:72
+msgid "Subject"
+msgstr "主题"
+
+# @ read
+#: page-contact.php:80
+msgid "Your Message"
+msgstr "您的消息"
+
+#: page-contact.php:98
+msgid "What is the sum?"
+msgstr "它们的和是多少？"
+
+# @ read
+#: page-contact.php:108
+msgid "Send it"
+msgstr "发送"
+
+# @ read
+#: page-gallery.php:118 page-portfolio.php:139 taxonomy.php:110
+msgid "MORE ITEMS"
+msgstr "更多内容"
+
+# @ read
+#: page-portfolio.php:64 taxonomy.php:38
+msgid "all"
+msgstr "所有"
+
+# @ read
+#: part-pagination.php:21
+msgid "&#8592; Older posts"
+msgstr "&#8592; 较旧文章"
+
+# @ read
+#: part-pagination.php:23
+msgid "Newer posts &#8594;"
+msgstr "较新文章 &#8594;"
+
+#: part-share.php:2
+msgid "SHARE"
+msgstr "分享"
+
+#: part-share.php:27
+msgid "Tweet"
+msgstr "Tweet"
+
+# @ read
+#: post-nosidebar.php:125 post-sidebar.php:125
+msgid "PREVIOUS POST"
+msgstr "上一篇文章"
+
+# @ read
+#: post-nosidebar.php:132 post-sidebar.php:132
+msgid "NEXT POST"
+msgstr "下一篇文章"
+
+# @ read
+#: search.php:12
+msgid "Search Results"
+msgstr "搜索结果"
+
+# @ read
+#: search.php:61
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "对不起，没有找到您搜索的内容。请尝试使用其他关键字。"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "搜索："
+
+#: searchform.php:5
+msgid "Enter keyword..."
+msgstr "输入关键字…"
+
+# @ read
+#: single-gallery.php:119
+msgid "MORE IMAGES"
+msgstr "更多图像"
+
+# @ read
+#: single-portfolio.php:70
+msgid "BACK TO PORTFOLIO"
+msgstr "返回作品集"
+
+# @ read
+#: single-portfolio.php:84
+msgid "PREVIOUS PROJECT"
+msgstr "前一个项目"
+
+# @ read
+#: single-portfolio.php:90
+msgid "NEXT PROJECT"
+msgstr "后一个项目"
+
+# @ read
+#: tg-masonry.php:9 tg-nosidebar.php:9 tg-sidebar.php:9
+msgid "Posts Tagged"
+msgstr "文章标签"
