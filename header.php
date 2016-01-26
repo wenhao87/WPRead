@@ -29,6 +29,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
 	<title><?php wp_title( '|', true, 'right' ); ?></title>
+
+	<link rel="alternate" href="<?php echo get_site_url(); ?>" hreflang="zh-cn" />
     
     <!--[if lte IE 9]>
         <script src="<?php echo get_template_directory_uri(); ?>/js/html5shiv.js"></script>
