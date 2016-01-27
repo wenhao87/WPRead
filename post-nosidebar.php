@@ -38,6 +38,13 @@
             </span>
             <!-- end .by-author -->
 
+            <span class="comments-link">
+              <?php
+                comments_popup_link( __( '0 Comment', 'read' ), __( '1 Comment', 'read' ), __( '% Comments', 'read' ) );
+              ?>
+            </span>
+            <!-- end .comments-link -->
+
             <?php
               $post_share_links_single = get_option( 'post_share_links_single', 'Yes' );
               if ( $post_share_links_single == 'Yes' ) {
@@ -46,14 +53,6 @@
             ?>
           </div>
           <!-- end .entry-meta -->
-
-          <div class="entry-stat">
-            <span class="post-views">
-              <?php if(function_exists('the_views')) { the_views(); } ?>
-            </span>
-            <!-- end .post-views -->
-          </div>
-          <!-- end .entry-stat -->
 
           <?php if ( has_post_thumbnail() ) { ?>
             <div class="featured-image">
