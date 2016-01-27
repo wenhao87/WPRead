@@ -26,7 +26,7 @@
             <!-- end .post-category -->
 
             <span class="post-date">
-              <a rel="bookmark" title="<?php the_time(); ?>" href="<?php the_permalink(); ?>"><time class="entry-date" datetime="<?php echo get_the_date(); ?>"><?php echo get_the_date(); ?></time></a>
+              <a rel="bookmark" title="<?php echo get_the_date(); ?>" href="<?php the_permalink(); ?>"><time class="entry-date" datetime="<?php echo get_the_date(); ?>"><?php echo get_the_date(); ?></time></a>
             </span>
             <!-- end .post-date -->
 
