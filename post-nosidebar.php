@@ -21,9 +21,7 @@
 
           <div class="entry-meta">
             <span class="post-category">
-              <?php
-                the_category( ', ' );
-              ?>
+              <?php the_category( ', ' ); ?>
             </span>
             <!-- end .post-category -->
 
@@ -40,11 +38,6 @@
             </span>
             <!-- end .by-author -->
 
-            <span class="post-views">
-              <?php if(function_exists('the_views')) { the_views(); } ?>
-            </span>
-            <!-- end .post-views -->
-
             <?php
               $post_share_links_single = get_option( 'post_share_links_single', 'Yes' );
               if ( $post_share_links_single == 'Yes' ) {
@@ -53,6 +46,14 @@
             ?>
           </div>
           <!-- end .entry-meta -->
+
+          <div class="entry-stat">
+            <span class="post-views">
+              <?php if(function_exists('the_views')) { the_views(); } ?>
+            </span>
+            <!-- end .post-views -->
+          </div>
+          <!-- end .entry-stat -->
 
           <?php if ( has_post_thumbnail() ) { ?>
             <div class="featured-image">
