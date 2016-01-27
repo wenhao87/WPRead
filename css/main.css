@@ -2085,6 +2085,7 @@ button.grass:active, a.button.grass:active {
 span.post-category, span.post-date, span.by-author, span.comments-link,
 span.post-views {
   margin: 0 .5em;
+  color: #22DD22;
 }
 
 .featured-image {
