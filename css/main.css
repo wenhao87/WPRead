@@ -2335,7 +2335,22 @@ span.post-views {
   display: block;
   position: relative;
   text-align: right;
-  color: rgba(90, 79, 67, 0.4);
+  color: #FF6666;
+}
+
+.format-aside .entry-content .aside-content blockquote:before {
+  content: "\f10d";
+  font-family: Fontawesome;
+  display: block;
+  position: relative;
+  text-align: left;
+  color: #FF6666;
+}
+
+.entry-content .aside-content blockquote p {
+  text-indent: 0;
+  margin: 0 1em 0 2em;
+  color: rgba(255, 102, 102, 0.5);
 }
 
 .format-quote .entry-content {
