@@ -19,8 +19,12 @@
       <?php the_category( ', ' ); ?>
     </span>
     <!-- end .post-category -->
+    <?php
+      $datecreated = esc_html(get_the_date());
+      $datemodifiedISO = esc_html(get_the_modified_time("c"));
+    ?>
     <span class="post-date">
-      <a rel="bookmark" title="<?php echo get_the_date(); ?>" href="<?php the_permalink(); ?>"><time class="entry-date" datetime="<?php echo get_the_date(); ?>"><?php echo get_the_date(); ?></time></a>
+      <a rel="bookmark" title="<?php echo $datecreated; ?>" href="<?php the_permalink(); ?>"><time class="entry-date updated" datetime="<?php echo $datemodifiedISO; ?>"><?php echo $datecreated; ?></time></a>
     </span>
     <!-- end .post-date -->
     <span class="by-author">
