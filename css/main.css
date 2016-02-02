@@ -1989,7 +1989,7 @@ button.grass:active, a.button.grass:active {
   font-family: Optima, STKaiti, sans-serif;
 }
 
-.entry-meta a, .entry-stat a, .nav-single a, .comment-meta a, .comment-reply-link,
+.entry-meta a, .entry-stat a, .comment-meta a, .comment-reply-link,
 .navigation a, .post-pagination a, .related-posts a, .archives a,
 .tabs .tab-titles li a {
   color: #22DD22;
@@ -1997,14 +1997,14 @@ button.grass:active, a.button.grass:active {
 }
 
 .entry-meta a:hover, .entry-stat a:hover, .site-content h1 a:hover,
-.nav-single a:hover, .comment-meta a:hover, .comment-reply-link:hover,
+.comment-meta a:hover, .comment-reply-link:hover,
 .navigation a:hover, .post-pagination a:hover, .related-posts a:hover,
 .archives a:hover, .entry-content a.more-link:hover, .launch-wrap a:hover {
   color: #3366FF;
   background-color: #22DD22;
 }
 
-.entry-meta a:active, .entry-stat a:active, .nav-single a:active,
+.entry-meta a:active, .entry-stat a:active,
 .comment-meta a:active, .comment-reply-link:active, .navigation a:active,
 .post-pagination a:active, .related-posts a:active, .archives a:active,
 .entry-content a.more-link:active, .launch-wrap a:active {
