@@ -2004,11 +2004,12 @@ button.grass:active, a.button.grass:active {
   background-color: #22DD22;
 }
 
-.entry-meta a:active, .entry-stat a:active,
+.entry-meta a:active, .entry-stat a:active, .site-content h1 a:active,
 .comment-meta a:active, .comment-reply-link:active, .navigation a:active,
 .post-pagination a:active, .related-posts a:active, .archives a:active,
 .entry-content a.more-link:active, .launch-wrap a:active {
-  background-color: #eee;
+  color: #3366FF;
+  background-color: #22DD22;
 }
 
 .entry-meta .edit-link {
@@ -2090,10 +2091,6 @@ span.post-views {
 
 .featured-image {
   text-align: center;
-}
-
-.site-content h1 a:active {
-  border-bottom: 1px dotted #ccc;
 }
 
 /* POST FORMATS */
